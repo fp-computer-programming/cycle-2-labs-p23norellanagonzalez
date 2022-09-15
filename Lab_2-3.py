@@ -5,4 +5,5 @@ a = (float(a))
 print (type(a))
 a = (str(a))
 print (type(a))
-a == 2
+a = (bool(a))
+print(a==2)
